@@ -1,0 +1,28 @@
+*{
+    background-color: aliceblue;
+}
+#p_id1{
+    color: green;
+}
+#p_id2{
+    color: brown;
+}
+button{
+    color: chocolate;
+    width: 5;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+.copy_right_footer{
+    position: fixed;
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+    bottom: 0;
+}
+h3{
+   color: black; 
+}
